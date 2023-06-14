@@ -12,21 +12,21 @@ Equipe do Laboratório de Geoprocessamento: Diego Marcochi e Danilo Zillig
 
 ### Roteiros:
 
-[Prática no R! Roteiro 1 - Introdução ao R/RStudio](https://luisfelipebr.github.io/mti2020/roteiros/roteiro1.html)
+[Prática no R! Roteiro 1 - Introdução ao R/RStudio](https://ufabcgate.github.io/mti2020/roteiros/roteiro1.html)
 
-[Prática no R! Roteiro 2 - Análise Exploratória I](https://luisfelipebr.github.io/mti2020/roteiros/roteiro2.html)
+[Prática no R! Roteiro 2 - Análise Exploratória I](https://ufabcgate.github.io/mti2020/roteiros/roteiro2.html)
 
-[Prática no R! Roteiro 3 - Análise Exploratória II](https://luisfelipebr.github.io/mti2020/roteiros/roteiro3.html)
+[Prática no R! Roteiro 3 - Análise Exploratória II](https://ufabcgate.github.io/mti2020/roteiros/roteiro3.html)
 
-[Prática no R! Roteiro 4 - Correlação](https://luisfelipebr.github.io/mti2020/roteiros/roteiro4.html)
+[Prática no R! Roteiro 4 - Correlação](https://ufabcgate.github.io/mti2020/roteiros/roteiro4.html)
 
-[Prática no R! Roteiro 5 - Regressão Linear](https://luisfelipebr.github.io/mti2020/roteiros/roteiro5.html)
+[Prática no R! Roteiro 5 - Regressão Linear](https://ufabcgate.github.io/mti2020/roteiros/roteiro5.html)
 
 [Prática no GeoDa! Roteiro 6 - Autocorrelação Espacial](https://www.youtube.com/watch?v=1FpBFUxmbkc&t)
 
 Por Ana Carolina Soares Ribeiro/Vitor Vieira Vasconcelos - Projeto Recursos Didáticos em Geotecnologias/PROGRAD/UFABC
 
-[Prática no R! Roteiro 7 - Regressão Espacial Local (GWR)](https://luisfelipebr.github.io/mti2020/roteiros/roteiro7.html)
+[Prática no R! Roteiro 7 - Regressão Espacial Local (GWR)](https://ufabcgate.github.io/mti2020/roteiros/roteiro7.html)
 
 ### Bibliografia complementar:
 
